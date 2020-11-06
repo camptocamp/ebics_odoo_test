@@ -1,0 +1,4 @@
+[submodule "Noviat/account_ebics"]
+	path = Noviat/account_ebics
+	url = git@github.com:Noviat/account_ebics.git
+	branch = 13.0
